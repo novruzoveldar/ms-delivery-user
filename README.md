@@ -236,9 +236,3 @@ This project is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 📣 Acknowledgments
-
-This project is part of the **Guavapay Microservice Architecture**, supporting modular, secure, and scalable service development.
-
----
